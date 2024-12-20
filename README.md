@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Henrique Ronchi Teixeira, tenho 18 anos e sou natural do Espirito Santo. Comecei na área de Desenvolvimento e Programação por curiosidade atráves de simples videos da internet. Atualmente, estou fazendo cursos de Assembly para engenharia reversa. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Zekron](https://www.youtube.com/@zekronhd)", onde ensino e desmistifico assuntos relacionados a programação.
+Me chamo Henrique Ronchi Teixeira, tenho 18 anos e sou natural do Espirito Santo. Comecei na área de Desenvolvimento e Programação por curiosidade atráves de simples videos da internet. Atualmente, estou fazendo cursos de Assembly para engenharia reversa. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Zekron](https://www.youtube.com/@zekronhd)", onde ensino e desmistifico assuntos relacionados a programação.
 
 <p align="left">
     <a href="https://www.youtube.com/@zekronhd?sub_confirmation=1">
