@@ -12,7 +12,7 @@ Me chamo Henrique Ronchi Teixeira, tenho 18 anos e sou natural do Espirito Santo
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCrCvcQlX7UIWk7075jyUytw?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/hteixeira-dev?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
