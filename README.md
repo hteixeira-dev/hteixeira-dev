@@ -2,20 +2,20 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Henrique Ronchi Teixeira, tenho 18 anos e sou natural do Espirito Santo. Comecei na área de Desenvolvimento e Programação por curiosidade atráves de simples videos da internet. Atualmente, estou fazendo cursos de Assembly para engenharia reversa. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Zekron](https://www.youtube.com/@zekronhd)", onde ensino e desmistifico assuntos relacionados a programação.
+My name is Henrique Ronchi Teixeira, I'm 18 years old, and I am from Espírito Santo, Brazil. I started in the field of Development and Programming out of curiosity through simple videos on the internet. Currently, I am taking Assembly courses for reverse engineering. I am passionate about technology and share my knowledge through my YouTube channel, "[Zekron](https://www.youtube.com/@zekronhd)", where I teach and demystify topics
 
 <p align="left">
     <a href="https://www.youtube.com/@zekronhd?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
+            title="Subscribe in my youtube channel" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCrCvcQlX7UIWk7075jyUytw?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
     <a href="https://github.com/hteixeira-dev?tab=followers">
         <img 
             alt="Seguidores" 
-            title="Me siga no GitHub" 
+            title="Follow me in my GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/hteixeira-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
