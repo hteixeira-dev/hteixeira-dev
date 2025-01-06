@@ -1,29 +1,29 @@
 # 👩🏻‍💻 Henrique Ronchi Teixeira
 
-**`Desenvolvedor FullStack`**
+**`FullStack Developer`**
 
-My name is Henrique Ronchi Teixeira, I'm 18 years old, and I am from Espírito Santo, Brazil. I started in the field of Development and Programming out of curiosity through simple videos on the internet. Currently, I am taking Assembly courses for reverse engineering. I am passionate about technology and share my knowledge through my YouTube channel, "[Zekron](https://www.youtube.com/@zekronhd)", where I teach and demystify topics
+My name is Henrique Ronchi Teixeira, I'm 18 years old, and I am from Espírito Santo, Brazil. I started in the field of Development and Programming out of curiosity through simple videos on the internet. Currently, I am taking Assembly courses for reverse engineering. I am passionate about technology and share my knowledge through my YouTube channel, "[Zekron](https://www.youtube.com/@zekronhd)", where I teach and demystify topics.
 
 <p align="left">
     <a href="https://www.youtube.com/@zekronhd?sub_confirmation=1">
         <img 
-            alt="youtube subscribers" 
-            title="Subscribe in my youtube channel" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCrCvcQlX7UIWk7075jyUytw?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            alt="YouTube Subscribers" 
+            title="Subscribe to my YouTube channel" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCrCvcQlX7UIWk7075jyUytw?color=%23E05D44&label=Subscribe&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
     <a href="https://github.com/hteixeira-dev?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Follow me in my GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/hteixeira-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="Followers" 
+            title="Follow me on GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/hteixeira-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
@@ -109,14 +109,14 @@ My name is Henrique Ronchi Teixeira, I'm 18 years old, and I am from Espírito S
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=hteixeira-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=hteixeira-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hteixeira-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hteixeira-dev&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 
 </p>
