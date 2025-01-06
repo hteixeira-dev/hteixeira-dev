@@ -101,7 +101,7 @@ My name is Henrique Ronchi Teixeira, I'm 18 years old, and I am from Espírito S
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
