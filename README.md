@@ -9,7 +9,7 @@ My name is Henrique Ronchi Teixeira, I'm 18 years old, and I'm from Espírito Sa
         <img 
             alt="YouTube Subscribers" 
             title="Subscribe to my YouTube channel" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCrCvcQlX7UIWk7075jyUytw?color=%23E05D44&label=Subscribe&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCSHrdHH-hs5lrHXio9-fJig?color=%23E05D44&label=Subscribe&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
     <a href="https://github.com/hteixeira-dev?tab=followers">
@@ -118,9 +118,4 @@ My name is Henrique Ronchi Teixeira, I'm 18 years old, and I'm from Espírito Sa
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=hteixeira-dev&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
-
 </p>
-
-Meu canal antigo esta setado ai, configure o meu novo
-
-https://www.youtube.com/@henrique-v.r
