@@ -7,8 +7,8 @@ My name is Henrique Ronchi Teixeira, I'm 18 years old, and I'm from Espírito Sa
 <p align="left">
     <a href="https://www.youtube.com/@henrique-v.r?sub_confirmation=1">
         <img 
-            alt="YouTube Subscribers" 
-            title="Subscribe to my YouTube channel" 
+            alt="#" 
+            title="#" 
             src="#"
         />
     </a>
