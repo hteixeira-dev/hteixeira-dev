@@ -1,15 +1,15 @@
 # 👩🏻‍💻 Henrique Ronchi Teixeira
 
-**`FullStack Developer`**
+**FullStack Developer**
 
 My name is Henrique Ronchi Teixeira, I'm 18 years old, and I'm from Espírito Santo, Brazil. I started in the field of Development and Programming out of curiosity, through simple videos on the internet. I'm passionate about technology and focus on full-stack development, while also exploring areas like Information Security, Reverse Engineering, and Tech Exploration. I share my knowledge through various projects and platforms.
 
 <p align="left">
-    <a href="https://www.youtube.com/@henrique-v.r?sub_confirmation=1">
+    <a href="https://www.youtube.com/@zekronhd?sub_confirmation=1">
         <img 
             alt="YouTube Subscribers" 
             title="Subscribe to my YouTube channel" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC6HhwMbcHjxRhuWSbdXBz8w?color=%23E05D44&label=Subscribe&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCrCvcQlX7UIWk7075jyUytw?color=%23E05D44&label=Subscribe&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
     <a href="https://github.com/hteixeira-dev?tab=followers">
@@ -120,3 +120,7 @@ My name is Henrique Ronchi Teixeira, I'm 18 years old, and I'm from Espírito Sa
   />
 
 </p>
+
+Meu canal antigo esta setado ai, configure o meu novo
+
+https://www.youtube.com/@henrique-v.r
