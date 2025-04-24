@@ -5,7 +5,7 @@
 My name is Henrique Ronchi Teixeira, I'm 18 years old, and I'm from Espírito Santo, Brazil. I started in the field of Development and Programming out of curiosity, through simple videos on the internet. I'm passionate about technology and focus on full-stack development, while also exploring areas like Information Security, Reverse Engineering, and Tech Exploration. I share my knowledge through various projects and platforms.
 
 <p align="left">
-    <a href="https://www.youtube.com/@zekronhd?sub_confirmation=1">
+    <a href="https://www.youtube.com/@henrique-v.r?sub_confirmation=1">
         <img 
             alt="YouTube Subscribers" 
             title="Subscribe to my YouTube channel" 
