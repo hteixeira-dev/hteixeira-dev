@@ -2,7 +2,13 @@
 
 **FullStack Developer**
 
-My name is Henrique Ronchi Teixeira, I'm 19 years old, and I'm from Espírito Santo, Brazil. I started in the field of Development and Programming out of curiosity, through simple videos on the internet. I'm passionate about technology and focus on full-stack development, while also exploring areas like Information Security, Reverse Engineering, and Tech Exploration. I share my knowledge through various projects and platforms.
+Hi, I'm Henrique Ronchi Teixeira, a software developer with hands-on experience in modern web development and a growing focus on cybersecurity.
+
+I have worked in real-world projects as a Front-end Developer, building web applications using technologies like React, Next.js, TypeScript, and Tailwind CSS. Alongside my development background, I’m transitioning my career toward Information Security, supported by a solid foundation in programming, systems, and security fundamentals.
+
+I’m currently studying Cybersecurity through globally recognized programs and continuously improving my skills in areas such as security concepts, systems analysis, and Python.
+
+Here on GitHub, you’ll find repositories related to professional projects, technical experiments, and studies that reflect my journey from software development to cybersecurity.
 
 <p align="left">
  <!--   <a href="https://www.youtube.com/@henrique-v.r?sub_confirmation=1">
