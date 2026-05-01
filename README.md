@@ -2,13 +2,13 @@
 
 **FullStack Developer**
 
-Hi, I'm Henrique Ronchi Teixeira, a software developer with hands-on experience in modern web development and a growing focus on cybersecurity.
+Hi, I'm Henrique Ronchi Teixeira, a software developer focused on backend development with Java.
 
-I have worked in real-world projects as a Front-end Developer, building web applications using technologies like React, Next.js, TypeScript, and Tailwind CSS. Alongside my development background, I’m transitioning my career toward Information Security, supported by a solid foundation in programming, systems, and security fundamentals.
+I have hands-on experience in real-world projects as a Front-end Developer, building web applications using technologies such as React, Next.js, TypeScript, and Tailwind CSS. This experience gave me a strong understanding of application architecture, best practices, and how modern systems are built.
 
-I’m currently studying Cybersecurity through globally recognized programs and continuously improving my skills in areas such as security concepts, systems analysis, and Python.
+Currently, I am focusing my studies on backend development, strengthening my knowledge in Java, Object-Oriented Programming, SQL, relational databases (especially PostgreSQL), and REST API development.
 
-Here on GitHub, you’ll find repositories related to professional projects, technical experiments, and studies that reflect my journey from software development to cybersecurity.
+Here on GitHub, you will find repositories related to my professional experience, backend projects, and continuous learning as I evolve toward becoming a backend developer.
 
 <p align="left">
  <!--   <a href="https://www.youtube.com/@henrique-v.r?sub_confirmation=1">
