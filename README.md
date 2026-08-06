@@ -1,127 +1,83 @@
-# 👩🏻‍💻 Henrique Ronchi Teixeira
-
-**FullStack Developer**
-
-Hi, I'm Henrique Ronchi Teixeira, a software developer focused on backend development with Java.
-
-I have hands-on experience in real-world projects as a Front-end Developer, building web applications using technologies such as React, Next.js, TypeScript, and Tailwind CSS. This experience gave me a strong understanding of application architecture, best practices, and how modern systems are built.
-
-Currently, I am focusing my studies on backend development, strengthening my knowledge in Java, Object-Oriented Programming, SQL, relational databases (especially PostgreSQL), and REST API development.
-
-Here on GitHub, you will find repositories related to my professional experience, backend projects, and continuous learning as I evolve toward becoming a backend developer.
-
-<p align="left">
- <!--   <a href="https://www.youtube.com/@henrique-v.r?sub_confirmation=1">
-        <img 
-            alt="#" 
-            title="#" 
-            src="#"
-        />
-    </a> -->
-    <a href="https://github.com/hteixeira-dev?tab=followers">
-        <img 
-            alt="Followers" 
-            title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/hteixeira-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
-        />
-    </a>
+<p align="center">
+  <img src="./assets/ascihand-removebg-preview.png" alt="Banner" width="100%">
 </p>
 
----
+<h1 align="center">Olá 👋, sou Henrique Ronchi Teixeira</h1>
 
-### 🤖 Languages and Technologies
+<h3 align="center">Engenheiro de Dados</h3>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Construindo+Pipelines+de+Dados;%3E+Transformando+Dados+em+Solu%C3%A7%C3%B5es;+%3E+Foco+em+Performance+e+Escalabilidade" alt="Typing SVG" />
+</p>
 
-<br/>
-<br/>
+<p align="center">
+Desenvolvendo estruturas de dados confiáveis, pipelines eficientes e soluções escaláveis.
+</p>
 
-### 📊 Statistics
+<h2 align="center">🚀 Sobre Mim </h2>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=hteixeira-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
-  />
+<img align="right" src="./assets/astro-removebg-preview.png" width="280" alt="Ilustração de Desenvolvedor"/>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hteixeira-dev&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
-  />
+Olá, me chamo **Henrique**! 
+
+Sou estudante e focado em **Engenharia de Dados**. Tenho interesse no desenvolvimento de pipelines de dados, modelagem e otimização de bancos de dados relacionais e não-relacionais, além de arquiteturas em nuvem.
+
+Atualmente estou aprimorando meus conhecimentos em **Python, SQL, Bancos de Dados e Cloud (AWS)**, além de praticar Estruturas de Dados e Algoritmos.
+
+Meu objetivo é escrever código limpo, construir ambientes de dados sólidos e evoluir como profissional na área de dados.
+
+<br clear="right"/>
+
+<h2 align="center">🤝 Conecte-se Comigo</h2>
+
+<p align="center">
+  <a href="https://github.com/hteixeira-dev">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:seu-email@exemplo.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+</p>
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,postgres,mysql,aws,docker,git,github,vscode" />
+</p>
+
+<h2 align="center">📊 Estatísticas do GitHub</h2>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=hteixeira-dev&theme=city_lights&hide_border=false&border_radius=5" height="150"/>
+
+</div>
+
+<h2 align="center">📈 Gráfico de Atividade</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hteixeira-dev&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Gráfico de Atividade"/>
+</p>
+
+<h2 align="center">⌘ Histórico de Commits</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/hteixeira-dev/hteixeira-dev/output/pacman-contribution-graph-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/hteixeira-dev/hteixeira-dev/output/pacman-contribution-graph.svg">
+
+  <img src="https://raw.githubusercontent.com/hteixeira-dev/hteixeira-dev/output/pacman-contribution-graph-dark.svg">
+</picture>
+
+<h2 align="center">⌘ Filosofia</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Citação"/>
 </p>
