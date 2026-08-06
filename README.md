@@ -66,15 +66,7 @@ Meu objetivo é escrever código limpo, construir ambientes de dados sólidos e 
 
 <h2 align="center">⌘ Histórico de Commits</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/hteixeira-dev/hteixeira-dev/output/pacman-contribution-graph-dark.svg">
 
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/hteixeira-dev/hteixeira-dev/output/pacman-contribution-graph.svg">
-
-  <img src="https://raw.githubusercontent.com/hteixeira-dev/hteixeira-dev/output/pacman-contribution-graph-dark.svg">
-</picture>
 
 <h2 align="center">⌘ Filosofia</h2>
 
