@@ -39,7 +39,7 @@ Meu objetivo é escrever código limpo, construir ambientes de dados sólidos e 
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:seu-email@exemplo.com">
+  <a href="mailto:henri.ronchi@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
 </p>
