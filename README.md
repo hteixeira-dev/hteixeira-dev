@@ -79,5 +79,6 @@ Meu objetivo é escrever código limpo, construir ambientes de dados sólidos e 
 <h2 align="center">⌘ Filosofia</h2>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Citação"/>
+  <i>"Sem dados, você é apenas mais uma pessoa com uma opinião."</i> <br>
+  <b>— W. Edwards Deming</b>
 </p>
