@@ -56,19 +56,13 @@ My goal is to deliver clean code, generate accurate analytical reports, and cont
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats & Languages</h2>
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=hteixeira-dev&theme=city_lights&hide_border=false&border_radius=5" height="150" style="pointer-events: none;"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=hteixeira-dev&show_icons=true&theme=city_lights&hide_border=false" height="150" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hteixeira-dev&layout=compact&theme=city_lights&hide_border=false" height="150" alt="Most Used Languages" />
 </div>
-
-<h2 align="center">📈 Activity Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hteixeira-dev&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph" style="pointer-events: none;"/>
-</p>
 
 <h2 align="center">⌘ Commit History</h2>
 
