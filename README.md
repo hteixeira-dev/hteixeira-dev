@@ -56,14 +56,6 @@ My goal is to deliver clean code, generate accurate analytical reports, and cont
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-<h2 align="center">📊 GitHub Stats & Languages</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hteixeira-dev&show_icons=true&theme=city_lights&hide_border=false" height="150" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hteixeira-dev&layout=compact&theme=city_lights&hide_border=false" height="150" alt="Most Used Languages" />
-</div>
-
 <h2 align="center">⌘ Commit History</h2>
 
 <picture style="pointer-events: none;">
