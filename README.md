@@ -2,33 +2,33 @@
   <img src="./assets/ascihand-removebg-preview.png" alt="Banner" width="100%" style="pointer-events: none;">
 </p>
 
-<h1 align="center">Olá 👋, sou Henrique Ronchi Teixeira</h1>
+<h1 align="center">Hello 👋, I'm Henrique Ronchi Teixeira</h1>
 
-<h3 align="center">Engenheiro de Dados</h3>
+<h3 align="center">Data Analyst</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Construindo+Pipelines+de+Dados;%3E+Transformando+Dados+em+Solu%C3%A7%C3%B5es;+%3E+Foco+em+Performance+e+Escalabilidade" alt="Typing SVG" style="pointer-events: none;" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Data+Analysis+%26+Visualization;%3E+Turning+Data+into+Business+Insights;+%3E+Focused+on+SQL%2C+Python+%26+Power+BI" alt="Typing SVG" style="pointer-events: none;" />
 </p>
 
 <p align="center">
-Desenvolvendo estruturas de dados confiáveis, pipelines eficientes e soluções escaláveis.
+Extracting meaningful insights, cleaning data pipelines, and building interactive business dashboards.
 </p>
 
-<h2 align="center">🚀 Sobre Mim </h2>
+<h2 align="center">🚀 About Me </h2>
 
-<img align="right" src="./assets/astro-removebg-preview.png" width="280" alt="Ilustração de Desenvolvedor" style="pointer-events: none;"/>
+<img align="right" src="./assets/astro-removebg-preview.png" width="280" alt="Developer Illustration" style="pointer-events: none;"/>
 
-Olá, me chamo **Henrique**! 
+Hello, I'm **Henrique**! 
 
-Sou estudante e focado em **Engenharia de Dados**. Tenho interesse no desenvolvimento de pipelines de dados, modelagem e otimização de bancos de dados relacionais e não-relacionais, além de arquiteturas em nuvem.
+I'm an Information Systems student focused on **Data Analysis**. I'm passionate about working with data manipulation, exploratory data analysis, relational database querying, and creating intuitive dashboards that solve real business problems.
 
-Atualmente estou aprimorando meus conhecimentos em **Python, SQL, Bancos de Dados e Cloud (AWS)**, além de praticar Estruturas de Dados e Algoritmos.
+Currently, I'm sharpening my practical skills in **Python (Pandas), SQL (PostgreSQL), Power BI, and Excel**, as well as integrating Python with relational databases.
 
-Meu objetivo é escrever código limpo, construir ambientes de dados sólidos e evoluir como profissional na área de dados.
+My goal is to deliver clean code, generate accurate analytical reports, and continuously grow as a data professional.
 
 <br clear="right"/>
 
-<h2 align="center">🤝 Conecte-se Comigo</h2>
+<h2 align="center">🤝 Connect with Me</h2>
 
 <p align="center">
   <a href="https://github.com/hteixeira-dev">
@@ -47,10 +47,10 @@ Meu objetivo é escrever código limpo, construir ambientes de dados sólidos e 
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,postgres,mysql,aws,docker,git,github,vscode" style="pointer-events: none;" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,powerbi,excel,git,github,vscode" style="pointer-events: none;" />
 </p>
 
-<h2 align="center">📊 Estatísticas do GitHub</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
@@ -58,13 +58,13 @@ Meu objetivo é escrever código limpo, construir ambientes de dados sólidos e 
 
 </div>
 
-<h2 align="center">📈 Gráfico de Atividade</h2>
+<h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hteixeira-dev&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Gráfico de Atividade" style="pointer-events: none;"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hteixeira-dev&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph" style="pointer-events: none;"/>
 </p>
 
-<h2 align="center">⌘ Histórico de Commits</h2>
+<h2 align="center">⌘ Commit History</h2>
 
 <picture style="pointer-events: none;">
   <source media="(prefers-color-scheme: dark)"
@@ -76,9 +76,9 @@ Meu objetivo é escrever código limpo, construir ambientes de dados sólidos e 
   <img src="https://raw.githubusercontent.com/hteixeira-dev/hteixeira-dev/output/pacman-contribution-graph-dark.svg" style="pointer-events: none;">
 </picture>
 
-<h2 align="center">⌘ Filosofia</h2>
+<h2 align="center">⌘ Philosophy</h2>
 
 <p align="center">
-  <i>"Sem dados, você é apenas mais uma pessoa com uma opinião."</i> <br>
+  <i>"Without data, you're just another person with an opinion."</i> <br>
   <b>— W. Edwards Deming</b>
 </p>
